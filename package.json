@@ -54,7 +54,7 @@
   "dependencies": {
     "@contentful/axios": "^0.18.0",
     "contentful-sdk-core": "^6.0.2",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
